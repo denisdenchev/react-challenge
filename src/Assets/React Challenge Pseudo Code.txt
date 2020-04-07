@@ -1,0 +1,12 @@
+React Challenge Pseudo Code
+
+1. Create React App
+2. Create GitHub Repo and connect both
+3. Add tools needed. (Node-sass)
+4. Create Input field and a button
+5. Create a "Card" component that you can display information on ( info from fetched api)
+6. Display something in the DOM using props
+7. Get input field value and fetch an API with it
+8.Console.log the fetched data from the API
+9. Pass the fetched data from the API onto the parent
+10. Pass the feched data from the parent to the child that is meant to display the info on the DOM
